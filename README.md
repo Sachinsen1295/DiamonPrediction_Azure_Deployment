@@ -1,4 +1,4 @@
-## End to End Ml Project For AWS by Github
+## End to End Ml Project - DOCKER
 
 #### Create venv
 ```
@@ -34,14 +34,5 @@ create repository and follow steps
 pip install ipykernel
 ````
 
-## For Deployment
-
-1. Create folder name ".ebextenstions" in route directory 
-2. create file under it name - 'python.config'
-    ````
-    option_settings:
-    'aws:elasticbeanstalk:container:python'
-    WSGIPATH: application:application
-    ````
-3. change name from app.py to application.py
+## For DOCKER
 
