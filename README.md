@@ -34,5 +34,9 @@ create repository and follow steps
 pip install ipykernel
 ````
 
-## For DOCKER
+## For Azure Deployment
+1. Open Azure
+2. Create a resource
+3. Web app
+
 
