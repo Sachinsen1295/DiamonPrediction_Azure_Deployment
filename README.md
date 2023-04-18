@@ -38,5 +38,6 @@ pip install ipykernel
 1. Open Azure
 2. Create a resource
 3. Web app
-
+4. create github action unable
+5. because once your create diployement .github file will be created
 
